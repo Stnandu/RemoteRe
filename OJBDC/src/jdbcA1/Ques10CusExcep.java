@@ -2,10 +2,6 @@ package jdbcA1;
 
 public class Ques10CusExcep extends Exception{
 	
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
 
 	public Ques10CusExcep(){
 		super();
