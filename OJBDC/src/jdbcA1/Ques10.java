@@ -12,6 +12,7 @@ public class Ques10 {
 		catch(Ques10CusExcep c){
 			System.out.println(c.getMessage());
 			System.out.println(c.getCause());
+			System.out.println("exception caught");
 		}
 		
 		
